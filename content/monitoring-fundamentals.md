@@ -12,14 +12,14 @@ _Understanding the foundation of effective system monitoring_
 <EngagementPrompt title="Did you know..?">
 
 In 2023, a major e-commerce platform lost **$2.5 million** in just 4 hours due to a service outage that could have been prevented with proper monitoring.  
-The incident wasnt detected for 45 minutes because their monitoring system had blind spots.  
+The incident wasn't detected for 45 minutes because their monitoring system had blind spots.  
 This unit will teach you how to build comprehensive monitoring that catches issues before they impact users.
 
 </EngagementPrompt>
 
 # Why this unit matters
 
-Monitoring is the eyes and ears of your DevOps infrastructure. Without it your flying blind.  
+Monitoring is the eyes and ears of your DevOps infrastructure. Without it you're flying blind.  
 You will learn to implement monitoring systems that provide visibility into application health, performance, and security.  
 As you work through this content consider how these monitoring principles apply to the module project you'll be building.
 
@@ -93,7 +93,7 @@ The database query is the bottleneck, taking 2 seconds when it should take milli
 
 * What is the key difference between metrics and logs?
 * Why is distributed tracing particularly important for microservices?
-* How do the three pillars work together to provide complete observability
+* How do the three pillars work together to provide complete observability?
 
 </EngagementPrompt>
 
@@ -249,6 +249,16 @@ Your task is to design a comprehensive monitoring strategy.
 Effective monitoring requires a balanced approach using metrics, logs, and traces.  
 Well-designed alerts focus on actionable symptoms that require human intervention.  
 The goal is visibility without noise - catching real issues while avoiding alert fatigue.
+
+</Highlight>
+
+</Activity>
+
+<Activity type="content" title="Learning Resources">
+
+<Highlight title="Resources">
+
+lots of links
 
 </Highlight>
 
